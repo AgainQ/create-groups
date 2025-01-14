@@ -1,0 +1,26 @@
+[14-01-2025 | 22:30:40] [INFO] [Liza Trumanova] Starting processing group number <1> 
+[14-01-2025 | 22:30:40] [INFO] [Liza Trumanova] Updating token for account 
+[14-01-2025 | 22:30:42] [INFO] [Liza Trumanova] Updated token for account 
+[14-01-2025 | 22:30:44] [INFO] [Liza Trumanova] 1) Creating base group: Tech Enthusiasts 
+[14-01-2025 | 22:30:46] [INFO] [Liza Trumanova] Created base group (Tech Enthusiasts) with ID: 229014421 
+[14-01-2025 | 22:30:46] [INFO] [Liza Trumanova] 2) Generating PFP 
+[14-01-2025 | 22:31:03] [INFO] [Liza Trumanova] PFP saved as 229014421.png 
+[14-01-2025 | 22:31:03] [INFO] [Liza Trumanova] 3) Updating group's photo 
+[14-01-2025 | 22:31:05] [INFO] [Liza Trumanova] --Obtained upload server URL. 
+[14-01-2025 | 22:31:08] [INFO] [Liza Trumanova] --Photo uploaded successfully. 
+[14-01-2025 | 22:31:10] [INFO] [Liza Trumanova] Group photo updated successfully 
+[14-01-2025 | 22:31:10] [INFO] [Liza Trumanova] Finished processing group: Tech Enthusiasts with status: have-photo 
+[14-01-2025 | 22:31:10] [INFO] [Liza Trumanova] ------------------------------------------------- 
+[14-01-2025 | 22:59:46] [INFO] [Liza Trumanova] Starting processing group number <1> 
+[14-01-2025 | 22:59:46] [INFO] [Liza Trumanova] Updating token for account 
+[14-01-2025 | 22:59:48] [INFO] [Liza Trumanova] Updated token for account 
+[14-01-2025 | 22:59:52] [INFO] [Liza Trumanova] 1) Creating base group: Tech Enthusiasts 
+[14-01-2025 | 22:59:54] [INFO] [Liza Trumanova] Created base group (Tech Enthusiasts) with ID: 229014734 
+[14-01-2025 | 22:59:54] [INFO] [Liza Trumanova] 2) Generating PFP 
+[14-01-2025 | 23:00:08] [INFO] [Liza Trumanova] PFP saved as 229014734.png 
+[14-01-2025 | 23:00:08] [INFO] [Liza Trumanova] 3) Updating group's photo 
+[14-01-2025 | 23:00:09] [INFO] [Liza Trumanova] --Obtained upload server URL. 
+[14-01-2025 | 23:00:13] [INFO] [Liza Trumanova] --Photo uploaded successfully. 
+[14-01-2025 | 23:00:15] [INFO] [Liza Trumanova] Group photo updated successfully 
+[14-01-2025 | 23:00:15] [INFO] [Liza Trumanova] Finished processing group: Tech Enthusiasts with status: have-photo 
+[14-01-2025 | 23:00:15] [INFO] [Liza Trumanova] ------------------------------------------------- 
